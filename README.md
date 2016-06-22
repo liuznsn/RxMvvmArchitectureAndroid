@@ -13,6 +13,19 @@
 
 ![MVVM](https://github.com/fabioCollini/mv2m/blob/master/mv2m-class-diagram.png)
 
+## Dependencies
+
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid):RxJava bindings for Android
+- [RxBinding](https://github.com/JakeWharton/RxBinding): RxJava binding APIs for Android's UI widgets.
+- [butterknife](http://jakewharton.github.io/butterknife/):Bind Android views and callbacks to fields and methods. 
+- [retrofit](https://github.com/square/retrofit):Type-safe HTTP client for Android and Java by Square, Inc.
+- [Gson](https://github.com/google/gson):A Java serialization/deserialization library that can convert Java Objects into JSON and back.
+- [Retrofit Adapters](https://github.com/square/retrofit/tree/master/retrofit-adapters):
+- [Logging Interceptor](https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor):An OkHttp interceptor which logs HTTP request and response data.
+- [picasso](https://github.com/square/picasso):A powerful image downloading and caching library for Android
+
+
+
 # Android Studio Plugin
 
 - [Android Code Styles] (https://github.com/ogaclejapan/android-code-styles)
