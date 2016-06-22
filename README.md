@@ -11,6 +11,8 @@
 
 ![MVVM](https://cdn-images-1.medium.com/max/800/1*WfT-BCzN0ZAGzdE30oea1g.png)
 
+![MVVM](https://github.com/fabioCollini/mv2m/blob/master/mv2m-class-diagram.png)
+
 # Android Studio Plugin
 
 - [Android Code Styles] (https://github.com/ogaclejapan/android-code-styles)
@@ -20,3 +22,6 @@
 # Reference
 
 - https://github.com/ffgiraldez/rx-mvvm-android
+- http://www.slideshare.net/fabio_collini/data-binding-in-action-using-mvvm-pattern
+- https://github.com/fabioCollini/mv2m
+- https://github.com/ivacf/archi
