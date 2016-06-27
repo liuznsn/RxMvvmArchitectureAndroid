@@ -40,3 +40,4 @@
 - https://github.com/fabioCollini/mv2m
 - https://github.com/ivacf/archi
 - https://github.com/erikcaffrey/People-MVVM
+- https://github.com/googlesamples/android-architecture
