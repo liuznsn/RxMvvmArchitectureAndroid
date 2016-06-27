@@ -41,3 +41,4 @@
 - https://github.com/ivacf/archi
 - https://github.com/erikcaffrey/People-MVVM
 - https://github.com/googlesamples/android-architecture
+- https://github.com/hitherejoe/MVVM_Hacker_News
