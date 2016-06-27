@@ -39,3 +39,4 @@
 - http://www.slideshare.net/fabio_collini/data-binding-in-action-using-mvvm-pattern
 - https://github.com/fabioCollini/mv2m
 - https://github.com/ivacf/archi
+- https://github.com/erikcaffrey/People-MVVM
