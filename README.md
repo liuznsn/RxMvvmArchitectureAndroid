@@ -23,8 +23,6 @@ The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.or
 
 ![MVVM](https://github.com/fabioCollini/mv2m/blob/master/mv2m-class-diagram.png)
 
-![MVVM](https://github.com/liuznsn/RxMvvmArchitectureAndroid/blob/master/MVVM_TDD.png)
-
 ## Dependencies
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid):RxJava bindings for Android
@@ -48,7 +46,10 @@ The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.or
 
 ## Testing
 
+![MVVM](https://github.com/liuznsn/RxMvvmArchitectureAndroid/blob/master/MVVM_TDD.png)
+
 - https://medium.com/@hiBrianLee/writing-testable-android-mvvm-app-part-4-e2f83fc21d71#.25v48essn
+
 
 ## Reference
 
