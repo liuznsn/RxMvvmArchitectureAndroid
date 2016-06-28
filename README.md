@@ -1,6 +1,6 @@
 # Android MVVM Architecture
 
-## Android code style
+## Code style
 
 [google android code style](https://source.android.com/source/code-style.html)
 
