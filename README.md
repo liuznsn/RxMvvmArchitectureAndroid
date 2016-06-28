@@ -13,6 +13,8 @@
 
 ![MVVM](https://github.com/fabioCollini/mv2m/blob/master/mv2m-class-diagram.png)
 
+![MVVM](https://github.com/liuznsn/RxMvvmArchitectureAndroid/blob/master/MVVM_TDD.png)
+
 ## Dependencies
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid):RxJava bindings for Android
