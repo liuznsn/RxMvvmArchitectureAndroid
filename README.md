@@ -1,4 +1,4 @@
-# Rxjava MVVM Architecture
+# Android MVVM Architecture
 
 ## Android code style
 
