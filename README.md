@@ -35,6 +35,10 @@
 - [ButterKnifeZelezny] (https://github.com/avast/android-butterknife-zelezny)
 - [GsonFormat] (https://github.com/zzz40500/GsonFormat):Generate gson objects from JSON Schema
 
+## Testing
+
+- https://medium.com/@hiBrianLee/writing-testable-android-mvvm-app-part-4-e2f83fc21d71#.25v48essn
+
 ## Reference
 
 - https://github.com/ffgiraldez/rx-mvvm-android
