@@ -2,6 +2,8 @@
 
 ## Code style
 
+[android best practices](https://github.com/futurice/android-best-practices)
+
 [google android code style](https://source.android.com/source/code-style.html)
 
 [android project and code guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
