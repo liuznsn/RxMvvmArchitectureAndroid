@@ -8,6 +8,8 @@
 
 [android project and code guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
+[CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
+
 ## MVVM
 The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
