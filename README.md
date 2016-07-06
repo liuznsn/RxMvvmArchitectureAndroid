@@ -39,7 +39,7 @@ The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.or
 - [Picasso](https://github.com/square/picasso):A powerful image downloading and caching library for Android
 - [RxGroups](https://github.com/airbnb/RxGroups):Easily group RxJava Observables together and tie them to your Android Activity lifecycle
 - [Glide](https://github.com/bumptech/glide):An image loading and caching library for Android focused on smooth scrolling
-
+- [leakcanary](https://github.com/square/leakcanary):A memory leak detection library for Android and Java.
 
 
 ## Android Studio Plugin
