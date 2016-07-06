@@ -40,7 +40,7 @@ The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.or
 - [RxGroups](https://github.com/airbnb/RxGroups):Easily group RxJava Observables together and tie them to your Android Activity lifecycle
 - [Glide](https://github.com/bumptech/glide):An image loading and caching library for Android focused on smooth scrolling
 - [leakcanary](https://github.com/square/leakcanary):A memory leak detection library for Android and Java.
-
+- [RxLifecycle](https://github.com/trello/RxLifecycle):Lifecycle handling APIs for Android apps using RxJava
 
 ## Android Studio Plugin
 
@@ -65,3 +65,4 @@ The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.or
 - https://github.com/googlesamples/android-architecture
 - https://github.com/hitherejoe/MVVM_Hacker_News
 - https://github.com/reark/reark
+- https://github.com/Kelin-Hong/MVVMLight
